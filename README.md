@@ -213,7 +213,7 @@ GNO.SYS embodies the compound intelligence philosophy:
 
 ## License
 
-MIT
+See license info.
 
 ## Support
 
